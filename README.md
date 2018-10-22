@@ -9,4 +9,4 @@ You can:
 
 Typer is a work in progress.
 
-(c) 2018 [EthanZone](www.typertool.com)
+(c) 2018 [Typer](www.typertool.com)
